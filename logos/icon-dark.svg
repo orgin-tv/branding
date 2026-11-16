@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <rect width="512" height="512" fill="#000000"/>
-  <polygon points="256,48 340,168 256,168 172,168" fill="#ffffff"/>
-  <polygon points="140,200 220,200 256,280 292,200 372,200 372,240 292,240 256,320 220,240 140,240" fill="#ffffff"/>
-  <polygon points="140,240 220,240 256,380 180,420 140,320" fill="#ffffff"/>
-  <polygon points="292,240 372,240 372,320 332,420 256,380" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="origin.live mark dark">
+  <rect width="512" height="512" fill="#000"/>
+  <path fill="#fff" fill-rule="evenodd" d="M256 48 L385 175 L465 200 L395 270 L330 230 L330 300 L395 370 L280 450 L256 410 L232 450 L117 370 L182 300 L182 230 L117 270 L47 200 L127 175 Z M256 120 L310 175 L256 230 L202 175 Z"/>
 </svg>
