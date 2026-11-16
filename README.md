@@ -2,64 +2,40 @@
 
 **Official brand assets and guidelines**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/horizontal-logo.svg" alt="orgin.live horizontal logo" width="480">
-</p>
-
----
+> **Note:** The logo images are the high-quality generated renders of the sharper & cleaner geometric mark. SVG approximations have been removed as they did not match the design.
 
 ## Primary Mark
 
 The core identity is a sharp geometric diamond representing origin, centralization, and precision.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-solid.svg" alt="Primary solid mark" width="180">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-dark.svg" alt="Dark mode mark" width="180">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-outline.svg" alt="Outline mark" width="180">
-</p>
+**Solid mark** (primary):
 
-| Variant | File | Best for |
-|---------|------|----------|
-| Solid | [`logos/icon-solid.svg`](logos/icon-solid.svg) | App icons, favicons, primary use |
-| Dark | [`logos/icon-dark.svg`](logos/icon-dark.svg) | Dark backgrounds |
-| Outline | [`logos/icon-outline.svg`](logos/icon-outline.svg) | Subtle or line-art contexts |
+![Primary solid mark](https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-solid.jpg)
 
----
+**Dark mode:**
+
+![Dark mode mark](https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-dark.jpg)
+
+**Outline:**
+
+![Outline mark](https://raw.githubusercontent.com/orgin-tv/branding/main/logos/icon-outline.jpg)
 
 ## Lockups
 
 ### Horizontal
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/horizontal-logo.svg" alt="Horizontal logo" width="520">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/horizontal-dark.svg" alt="Horizontal dark logo" width="520">
-</p>
+![Horizontal logo](https://raw.githubusercontent.com/orgin-tv/branding/main/logos/horizontal-logo.jpg)
 
 ### Stacked
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/stacked-logo.svg" alt="Stacked logo" width="280">
-</p>
-
-### Website Header
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/orgin-tv/branding/main/logos/website-header.svg" alt="Website header logo" width="640">
-</p>
-
----
+![Stacked logo](https://raw.githubusercontent.com/orgin-tv/branding/main/logos/stacked-logo.jpg)
 
 ## Usage Guidelines
 
 - Prefer the **solid mark** for most applications
 - Maintain clear space around the logo equal to at least half the height of the icon
 - Do not stretch, distort, rotate, or recolor (use the provided light/dark variants)
-- Wordmark uses a clean modern sans-serif (Inter recommended)
+- Wordmark uses a clean modern sans-serif
 - Minimum size: 24px height for the icon mark
 
 ## Colors
@@ -69,8 +45,6 @@ The core identity is a sharp geometric diamond representing origin, centralizati
 | Primary | `#000000` |
 | Background | `#FFFFFF` |
 | Dark mode | Inverted (white on black) |
-
-All assets are clean, scalable SVGs.
 
 ---
 
