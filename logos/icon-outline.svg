@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <rect width="512" height="512" fill="#ffffff"/>
-  <polygon points="256,56 332,164 256,164 180,164" fill="none" stroke="#000000" stroke-width="7"/>
-  <polygon points="148,196 212,196 256,272 300,196 364,196 364,236 300,236 256,312 212,236 148,236" fill="none" stroke="#000000" stroke-width="7"/>
-  <polygon points="148,236 212,236 256,372 188,412 148,312" fill="none" stroke="#000000" stroke-width="7"/>
-  <polygon points="300,236 364,236 364,312 324,412 256,372" fill="none" stroke="#000000" stroke-width="7"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="origin.live outline">
+  <path fill="none" stroke="#000" stroke-width="16" stroke-linejoin="miter" d="M256 48 L385 175 L465 200 L395 270 L330 230 L330 300 L395 370 L280 450 L256 410 L232 450 L117 370 L182 300 L182 230 L117 270 L47 200 L127 175 Z"/>
+  <path fill="none" stroke="#000" stroke-width="16" stroke-linejoin="miter" d="M256 120 L310 175 L256 230 L202 175 Z"/>
 </svg>
